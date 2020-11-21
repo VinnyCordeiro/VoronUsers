@@ -89,7 +89,7 @@ like so:
 | | [TacoRaven Mounting Frame](./tameike/V0_TR_Mounting_Frame) | TR V0 mount | :heavy_check_mark: | :x: | :x: |
 | | [Jetpack V0 base](./tameike/Jetpack_V0)| Attach Jetpack to V0 frame | :heavy_check_mark: |:x: |:x: |
 | tayto-chip | [V2.4 Skirt Switch Mod](./tayto-chip/skirt_switch_mod) | Add a ON/OFF Switch to side or front skirts| :x: | :x: | :heavy_check_mark: |
-| VinnyCordeiro | [Z Motor Mount for 10mm M5 nuts](./VinnyCordeiro/Z_Motor_Mount_for_10mm_M5) | Use only if you already have 10mm M5 nuts and didn't bought the standard 8mm ones| :heavy_check_mark: | :x: | :x: |
+| VinnyCordeiro | [Voron 0 Z Motor Mount for 10mm M5 nuts](./VinnyCordeiro/Z_Motor_Mount_for_10mm_M5) | Use only if you already have 10mm M5 nuts and didn't bought the standard 8mm ones| :heavy_check_mark: | :x: | :x: |
 | warriorofwire | [Slenderfan for Afterburner](./warriorofwire/slenderfan) | Lighter, quieter, smaller Afterburner | :x: | :x: | :heavy_check_mark: |
 | Weaslus | [Electronics Bay and Enclosure Seperator](./Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | :heavy_check_mark: | :x: | :x: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |
