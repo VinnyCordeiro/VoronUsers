@@ -6,3 +6,4 @@ The V0 is known to not print PLA well because of the standard part cooling fans,
 
 ## Updates:
 March 26, 2021: Initial upload. Included STEP files of modified fan ducts in two versions: the first is the original with air intakes closed and a hole for the CPAP adapter (useful for those with more CAD skills than myself), the second is my bodged attempt of a final product. I need to print this as a proof of concept, but it is FAR from perfect, do not use it seriously.
+April 08,2021: Uploaded a better version of the CPAP ducts, I took the time to learn how to use lofts on Fusion 360. Still not perfect, but this version should be really usable. Deleted the original version, they were really just a crude mock-up.
